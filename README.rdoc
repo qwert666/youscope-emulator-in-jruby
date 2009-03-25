@@ -5,7 +5,9 @@ It look like the Youscope emulator in Python http://www.youtube.com/watch?v=-1E0
 
 == USE:
 
-    rp5 run youscope.rb (on my hp6715b it take a couple of seconds to start the animation... )
+    rp5 run youscope.rb 
+
+(on my hp6715b it took a couple of seconds to start the animation... )
 
 == REQUIREMENTS:
 
