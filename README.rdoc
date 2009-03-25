@@ -1,0 +1,18 @@
+This is a "simple" and quite "messy" Youscope emulator based on ruby-processing
+eh the fucking "Yet another ..." would fit here ;) 
+
+It look like the Youscope emulator in Python http://www.youtube.com/watch?v=-1E0DpQ_cFo 
+
+== USE:
+
+rp5 run youscope.rb (on my hp6715b it take a couple of seconds to start the animation... )
+
+== REQUIREMENTS:
+
+* jruby 
+* ruby-processing
+* youscope-wave.wav (~31mb! http://mirror.kapsi.fi/koodaa.mine.nu/tvt/youscope-wave.wav)
+
+== TODO: 
+
+* Optimization and refactoring 
